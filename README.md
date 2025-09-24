@@ -64,10 +64,12 @@ basta acessar o N8N em http://localhost:5678, autenticar com o usuário e senha 
 
 Os testes realizados demonstraram o funcionamento correto do nó. Ao executar, o resultado retornado apresenta o número aleatório gerado, o valor mínimo e máximo definidos, a data e hora da execução e a indicação de que o dado veio do Random.org. Abaixo seguem prints de tela que exemplificam o funcionamento do projeto:
 
-## <p align="center">PAINEL N8N</p>
+<p align="center">
+  <strong>PAINEL N8N</strong> - <a href="https://github.com/user-attachments/assets/97e9deaa-09f6-4b2e-80fb-b96b48fb2b58" target="_blank">Link</a>
+</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/97e9deaa-09f6-4b2e-80fb-b96b48fb2b58" alt="Painel N8N" width="1919" height="930">
+  <img src="https://github.com/user-attachments/assets/97e9deaa-09f6-4b2e-80fb-b96b48fb2b58" alt="Painel N8N" width="600">
 </p>
 
 ---
