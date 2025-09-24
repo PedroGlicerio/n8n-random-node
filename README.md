@@ -54,9 +54,16 @@ npm run build
 
 docker-compose up -d --build
 
-# Depois que os containers subirem 
+Após os containers estarem em execução, acesse o N8N em http://localhost:5678, autentique com o usuário e senha definidos no arquivo docker-compose.yml e adicione o nó Random ao fluxo.
+```
+---
 
-basta acessar o N8N em http://localhost:5678, autenticar com o usuário e senha definidos no docker-compose.yml e adicionar o nó Random ao fluxo.
+⚙️ Configuração do Ambiente
+
+O projeto já vem preparado para rodar via Docker Compose. As variáveis de ambiente necessárias estão definidas no arquivo docker-compose.yml, incluindo o banco de dados Postgres para persistência do N8N, o usuário e senha de autenticação e a porta de acesso padrão 5678. Caso seja necessário personalizar, basta editar os valores no arquivo docker-compose.yml antes de subir os containers. Depois de configurado, execute:
+
+```bash
+docker-compose up -d --build
 ```
 ---
 
