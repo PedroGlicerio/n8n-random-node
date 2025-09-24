@@ -98,6 +98,13 @@ Os testes realizados demonstraram o funcionamento correto do nó. Ao executar, o
 </p>
 
 --- 
+## <p align="center">DOCKER</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/27309d24-9dcc-431c-a17b-c84fa6ec75ef" width="1919" height="930">
+</p>
+
+---
 
 ## Estrutura do Projeto
 
