@@ -39,7 +39,7 @@ Após instalar os requisitos, siga os passos abaixo no terminal:
 ```bash
 # Clonar o repositório
 
-git clone https://github.com/seu-usuario/n8n-random-node.git
+git clone https://github.com/PedroGlicerio/n8n-random-node.git
 cd n8n-random-node
 
 # Instalar as dependências
