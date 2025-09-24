@@ -1,0 +1,20 @@
+{
+    "name": "n8n-random-node",
+    "version": "1.0.0",
+    "description": "n8n usando o random.org",
+    "main": "Random.node.js",
+    "scripts": {
+        "build": "tsc",
+        "clean": "rm -rf dist",
+        "prepare-for-n8n": "npm run build && cp dist/nodes/Random.node.js ./Random.node.js && cp src/nodes/icon.svg dist/nodes/icon.svg || true"
+    },
+    "dependencies": {
+        "axios": "^1.6.0",
+        "n8n-core": "^1.85.0",
+        "n8n-workflow": "^1.85.0"
+    },
+    "devDependencies": {
+        "typescript": "^5.2.2",
+        "@types/node": "^20.0.0"
+    }
+}
