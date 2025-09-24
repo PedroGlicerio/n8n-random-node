@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/de74b1f0-8148-4465-b4fd-dc047f8e9cce" width="400">
+  <img src="https://github.com/user-attachments/assets/a567434d-5679-4ae7-8dbb-01e4807b5084" width="400">
 </p>
 
 ---
@@ -67,7 +67,7 @@ Os testes realizados demonstraram o funcionamento correto do nó. Ao executar, o
 ## <p align="center">PAINEL N8N</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/db9e4e00-27c6-4cd7-9660-549c1527b7ce" alt="Painel N8N" width="1919" height="930">
+  <img src="https://github.com/user-attachments/assets/97e9deaa-09f6-4b2e-80fb-b96b48fb2b58" alt="Painel N8N" width="1919" height="930">
 </p>
 
 ---
@@ -75,7 +75,7 @@ Os testes realizados demonstraram o funcionamento correto do nó. Ao executar, o
 ## <p align="center">PAINEL RANDOM</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da5ad981-bdf9-489f-a4aa-32d189777371" width="1919" height="930">
+  <img src="https://github.com/user-attachments/assets/562f81e3-1089-4aa6-a322-640c4c93b785" width="1919" height="930">
 </p>
 
 ---
@@ -83,7 +83,7 @@ Os testes realizados demonstraram o funcionamento correto do nó. Ao executar, o
 ## <p align="center">RANDOM FUNCIONANDO</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/86c8423b-7f06-4aa5-a916-92870b7b8567" width="1919" height="930">
+  <img src="https://github.com/user-attachments/assets/9eafc9fa-128b-4762-8230-64a061addce8" width="1919" height="930">
 </p>
 
 ---
@@ -91,10 +91,10 @@ Os testes realizados demonstraram o funcionamento correto do nó. Ao executar, o
 ## <p align="center">RANDOM OUTPUT</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c9354c78-0020-40ed-b5f7-5f76bb7c9f1d" width="1919" height="930">
+  <img src="https://github.com/user-attachments/assets/e24d1529-67c3-4297-8dac-a75e802f86fb" width="1919" height="930">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ac8eeeb2-c817-49a0-a405-9a6a7d10cedb" width="1919" height="930">
+  <img src="https://github.com/user-attachments/assets/0680105c-a444-4d31-b652-245e7f3a7ae0" width="1919" height="930">
 </p>
 
 --- 
